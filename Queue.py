@@ -2,7 +2,7 @@
 #3/4/20
 #Queue
 
-from DoubleLinkedListClass.py import Double_Linked_List
+from DoubleLinkedListClass import Double_Linked_List
 
 class Queue:
     def __init__(self):
